@@ -100,7 +100,7 @@ private static long _chatId = Your_Chat_ID;
          - Education: Class 10
          - Group: Emperor Hacker's Community
          - Facebook: https://facebook.com/rahad-infosec
-         - Thank you!
+         - Thanks!
 
 ```
 
