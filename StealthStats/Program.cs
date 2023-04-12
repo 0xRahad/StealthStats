@@ -18,7 +18,7 @@ namespace SystemInfoBot
     
 
         // Replace the _botToken Variable values with your own Telegram Bot Token.
-        private static string _botToken = "6171395261:AAHgS7hdDjkxjKnfN9onOLyhmD96fXbiq28";
+        private static string _botToken = "Your_bot_token";
 
         // Replace the _chatID Variable values with your own Telegram chatID.
         private static long _chatId = 5734007989;
