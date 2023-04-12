@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Automate Bug Hunting Tools Installer</h4>
+<h4 align="center">A powerful tool for gathering system information on Windows machines.</h4>
     <p align="center">
   <a href="https://github.com/rahad-infosec/StealthStats">
     <img src="https://img.shields.io/static/v1?label=Project&message=StealthStats&color=green">
