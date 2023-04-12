@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrWpJ7xVf+lLlORUoewMoeqmyU+NbzmkHIAlJHiirV+Sr7CKZssKQR/b8mj+527eCgPQ5aW2ZSgezrCF6YwQYQ==",
+  "success": true,
+  "projectFilePath": "F:\\C Sharp development\\StealthStats\\StealthStats\\StealthStats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahad\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Rahad\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rahad\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512",
+    "C:\\Users\\Rahad\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

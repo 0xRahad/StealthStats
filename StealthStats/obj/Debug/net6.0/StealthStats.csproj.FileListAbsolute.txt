@@ -1,0 +1,5 @@
+F:\C Sharp development\StealthStats\StealthStats\obj\Debug\net6.0\StealthStats.csproj.AssemblyReference.cache
+F:\C Sharp development\StealthStats\StealthStats\obj\Debug\net6.0\StealthStats.GeneratedMSBuildEditorConfig.editorconfig
+F:\C Sharp development\StealthStats\StealthStats\obj\Debug\net6.0\StealthStats.AssemblyInfoInputs.cache
+F:\C Sharp development\StealthStats\StealthStats\obj\Debug\net6.0\StealthStats.AssemblyInfo.cs
+F:\C Sharp development\StealthStats\StealthStats\obj\Debug\net6.0\StealthStats.csproj.CoreCompileInputs.cache
